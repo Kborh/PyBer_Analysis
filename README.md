@@ -24,6 +24,9 @@
     and the total number of drivers. Prices are also likely to increase in rural areas based on distance between destinations. 
     At a glance, the line chart below shows exactly what's expected; an overall higehr volume in total fares for urban areas, 
     lowest volume for rural areas, with suburban areas in between.
+    
+    
+    
    
     ![Challenge Plot](/analysis/Chellenge.png)
 

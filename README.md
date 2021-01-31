@@ -17,10 +17,9 @@
         Urban	  1625	         2405	 $39,854.38	                24.53	                  16.57  
 
 
-   
-
+       
     
-    ![Chellenge Plot](/analysis/Chellenge.png)
+    ![](/analysis/Chellenge.png)
    
     
 ## Summery

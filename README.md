@@ -26,7 +26,7 @@
     Based on the above results, I have the following recommendations:
 
     1. Focus recruitment marketing resources in rural areas to increase the number of available drivers at a given time, 
-       while decreasing recruitment marketing in urban areas.(This recommendation would be highly influenced by turnover rates of contracted employees.)
+       while decreasing recruitment marketing in urban areas.
     2. Place a cap on fare to keep the service affordable in rural areas. 
        This would make it more accessible to those who may be living in underserved service areas while still allowing for profit. 
     3. Increase user-facing marketing efforts across the board, but particularly in urban areas, 

@@ -1,9 +1,9 @@
 # PyBer_Analysis1
 
 ## Overview of analysis
-    This project was designed to analyze and create visual representations for all major data from January to early May of 2019 for PyBer, 
-    a ride-sharing company. The data includes the total rides, total drivers, total fares, average fare per ride and driver, 
-    and total fare by city type.
+    This project was designed to analyze and create visual representations for all major data from January to
+    early May of 2019 for PyBer, a ride-sharing company. The data includes the total rides, total drivers, total 
+    fares, average fare per ride and driver, and total fare by city type.
 
 ## Resources
     Data Source: city_data.csv, ride_data.csv
@@ -25,7 +25,7 @@
 ## Summery
     Based on the above results, I have the following recommendations:
 
-    1. Focus recruitment marketing resources in rural areas to to increase the number of available drivers at a given time, 
+    1. Focus recruitment marketing resources in rural areas to increase the number of available drivers at a given time, 
        while decreasing recruitment marketing in urban areas.(This recommendation would be highly influenced by turnover rates of contracted employees.)
     2. Place a cap on fare to keep the service affordable in rural areas. 
        This would make it more accessible to those who may be living in underserved service areas while still allowing for profit. 

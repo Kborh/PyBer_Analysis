@@ -11,7 +11,7 @@
     Base on the city type, the data showed an overall direct correation between total rides, total drivers, and total fares, and
     showed an inverse relationship for average fare per ride and average fare per driver.
     
-               Total Ride    Total Drivers   Total Fares     Average Fare per Ride       Average Fare per Driver
+               Total Ride    Total Drivers   Total Fares     Average Fare per Ride      Average Fare per Driver
         Rural	   125	           78	  $4,327.93	                34.62	                  55.49
        Suburban	   625	          490	 $19,356.33	                30.97	                  39.50
         Urban	  1625	         2405	 $39,854.38	                24.53	                  16.57 

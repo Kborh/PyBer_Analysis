@@ -20,7 +20,7 @@
    
 
     
-    ![Chellenge Plot](PyBer_Analysis1/analysis/Chellenge.png)
+    ![Chellenge Plot](/analysis/Chellenge.png)
    
     
 ## Summery

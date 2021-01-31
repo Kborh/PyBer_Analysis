@@ -14,9 +14,7 @@
                Total Ride    Total Drivers   Total Fares     Average Fare per Ride      Average Fare per Driver
         Rural	   125	           78	  $4,327.93	                34.62	                  55.49
        Suburban	   625	          490	 $19,356.33	                30.97	                  39.50
-        Urban	  1625	         2405	 $39,854.38	                24.53	                  16.57 
-   
-   
+        Urban	  1625	         2405	 $39,854.38	                24.53	                  16.57  
 
 Based on our knowledge of ride-sharing services and basic economic principle lead us to expect an increase in price based on increase in demand, increased distance, and driver availability. In larger cities and urban areas, the number of drivers is about 30 times greater than in rural areas, which translates to an increased relative demand. In fact, there are so many drivers in the urban area that at any given time, many drivers are not contracted, as shown by the contrast between the total number of rides and the total number of drivers. Prices are likely also increased in rural areas based on the distance between destinations. At a glance, the line chart shows exactly what's expected: an overall higher volume in total fares for urban areas, lowest volume for rural areas, with suburban falling in  between.
    
@@ -25,8 +23,6 @@ Based on our knowledge of ride-sharing services and basic economic principle lea
     ![Chellenge Plot](PyBer_Analysis1/analysis/Chellenge.png)
    
     
-
-
 ## Summery
     Based on the above results, I have the following recommendations:
 

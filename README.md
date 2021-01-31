@@ -23,7 +23,7 @@ Based on our knowledge of ride-sharing services and basic economic principle lea
     
     
    
-    ![Chellenge Plot](/analysis/Chellenge.png)
+    ![Chellenge Plot](PyBer_Analysis1/analysis/Chellenge.png)
 
 
 ## Summery

@@ -17,18 +17,13 @@
         Urban	   1625	         2405	 $39,854.38	                24.53	                  16.57 
    
 
-    Base on our knowledge of ride-sharing services and basic economic principle lead us to expect an increased in price based on 
-    incresed in demand, increased distance, and driver availibility. In larger cities, which and urban ares, the unmber of driver 
-    is about 30 times greater than in rural areas, which translates to an increased relative demand. In fact, there are so many drivers 
-    in the urban area that at any given time, many drivers are not contracted, as shown by the contrast between the total unmber of rides
-    and the total number of drivers. Prices are also likely to increase in rural areas based on distance between destinations. 
-    At a glance, the line chart below shows exactly what's expected; an overall higehr volume in total fares for urban areas, 
-    lowest volume for rural areas, with suburban areas in between.
-    
+Based on our knowledge of ride-sharing services and basic economic principle lead us to expect an increase in price based on increase in demand, increased distance, and driver availability. In larger cities and urban areas, the number of drivers is about 30 times greater than in rural areas, which translates to an increased relative demand. In fact, there are so many drivers in the urban area that at any given time, many drivers are not contracted, as shown by the contrast between the total number of rides and the total number of drivers. Prices are likely also increased in rural areas based on the distance between destinations. At a glance, the line chart shows exactly what's expected: an overall higher volume in total fares for urban areas, lowest volume for rural areas, with suburban falling in  between.
+   
+
     
     
    
-    ![Challenge Plot](/analysis/Chellenge.png)
+    ![Chellenge Plot](/analysis/Chellenge.png)
 
 
 ## Summery

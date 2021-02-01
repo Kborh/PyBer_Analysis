@@ -26,7 +26,7 @@ Prices are likely also increased in rural areas based on the distance between de
 an overall higher volume in total fares for urban areas, lowest volume for rural areas, with suburban falling in between. 
        
     
-    ![Chellenge](/analysis/Chellenge.png)
+    ![Chellenge](PyBer_Analysis1/analysis/Chellenge.png)
    
     
 ## Summery

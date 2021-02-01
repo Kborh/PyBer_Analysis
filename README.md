@@ -5,8 +5,8 @@
     from Jnauary to early May of 2019. These data includes the total rides, total drivers, total fare, average fare per driver, 
     and total fare per city type.
 ## Resources
-    Data Source: city_data.csv, ride_data_csv
-    Software: Python 3.9.7.Anaconda Navigator 1.9.6, Jupyter Notebook 6.0.1
+    Data Source: city_data.csv, ride_data_csv.
+    Software: Python 3.9.7.Anaconda Navigator 1.9.6, Jupyter Notebook 6.0.1.
 ## Results
     Base on the city type, the data showed an overall direct correation between total rides, total drivers, and total fares, and
     showed an inverse relationship for average fare per ride and average fare per driver.

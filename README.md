@@ -29,7 +29,7 @@ an overall higher volume in total fares for urban areas, lowest volume for rural
     ![Chellenge](PyBer_Analysis1/analysis/Chellenge.png)
    
     
-## Summery
+## Summary
     Based on the above results, I have the following recommendations:
 
     1. Focus recruitment marketing resources in rural areas to increase the number of available drivers at a given time, 
